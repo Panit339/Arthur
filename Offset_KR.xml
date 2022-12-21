@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1F64BB0</StructureAddress>
+    <StructureAddress>1F5CBB0</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-11-22 6.15 딮 닼 파러웨이</LastUpdate>
+  <LastUpdate>2022-12-20 6.18 아워너위시유어메리크리스마스</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
