@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>2053930</StructureAddress>
+    <StructureAddress>204E920</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-02-14 6.2 쪼꼬렛</LastUpdate>
+  <LastUpdate>2022-04-11 6.25 세상에 안경이 이렇게 많은데 어째서</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
