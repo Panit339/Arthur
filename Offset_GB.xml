@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>20CA310</StructureAddress>
+    <StructureAddress>213D1F0</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-1-13 6.3 hotifx 1착은 아그네스 디지털</LastUpdate>
+  <LastUpdate>2023-05-23 6.4 링크… 링크…</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
