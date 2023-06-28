@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>204E920</StructureAddress>
+    <StructureAddress>20BA410</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-04-11 6.25 세상에 안경이 이렇게 많은데 어째서</LastUpdate>
+  <LastUpdate>2023-06-27 코카콜라 레몬 제로 슈가는 맛있다 어서 마셔라</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
