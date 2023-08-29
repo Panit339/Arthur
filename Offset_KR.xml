@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>20C5810</StructureAddress>
+    <StructureAddress>20BE790</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2023-07-18 6.31 당당하게 네네 내놓으라고 요구하기 '줘'</LastUpdate>
+  <LastUpdate>2023-08-29 6.35 170연 1장 / 110연 0장 섭종 Go!</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
