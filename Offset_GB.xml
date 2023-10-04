@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>2138470</StructureAddress>
+    <StructureAddress>21CC780</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2023-06-06 6.4 hotfix 메가네</LastUpdate>
+  <LastUpdate>2023-10-03 6.5 가슴이 아파요(진짜로) 연휴를 돌려주세요</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
