@@ -9,14 +9,14 @@
     <FovMax>108</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>27B9EC0</StructureAddress>
+    <StructureAddress>28F3150</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMin>118</ZoomMin>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>20XX-XX-XX 7.16 우리는 이 게임을 해봤어요라고 나중에 말하면 되는거</LastUpdate>
+  <LastUpdate>2025-XX-XX 고마워요 복귀캠페인 우린 이 게임을 해요</LastUpdate>
   <AutoApply>True</AutoApply>
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>23</DesiredZoomMax>
